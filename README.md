@@ -1,10 +1,10 @@
 ## Hi there 👋 [Montar] 
-
+<!--
 Criar Orgs para dividir por torres
 [Projetos Fork] - [https://github.com/orgs/drsa-forked]
 [Estudos] Internamente marcar como [Privados / Públicos]
 [Projetos Pessoais]
-<!--
+
 **danielralfes/danielralfes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
